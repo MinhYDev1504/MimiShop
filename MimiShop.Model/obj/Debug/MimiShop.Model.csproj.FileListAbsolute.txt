@@ -1,0 +1,12 @@
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\MimiShop.Model.dll.config
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\MimiShop.Model.dll
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\MimiShop.Model.pdb
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\EntityFramework.dll
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\EntityFramework.xml
+G:\MIMISHOP\MimiShop\MimiShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\MIMISHOP\MimiShop\MimiShop.Model\obj\Debug\MimiShop.Model.csprojAssemblyReference.cache
+G:\MIMISHOP\MimiShop\MimiShop.Model\obj\Debug\MimiShop.Model.csproj.CoreCompileInputs.cache
+G:\MIMISHOP\MimiShop\MimiShop.Model\obj\Debug\MimiShop.Model.csproj.CopyComplete
+G:\MIMISHOP\MimiShop\MimiShop.Model\obj\Debug\MimiShop.Model.dll
+G:\MIMISHOP\MimiShop\MimiShop.Model\obj\Debug\MimiShop.Model.pdb

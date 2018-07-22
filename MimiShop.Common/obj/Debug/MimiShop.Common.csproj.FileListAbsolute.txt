@@ -1,0 +1,6 @@
+G:\MIMISHOP\MimiShop\MimiShop.Common\bin\Debug\MimiShop.Common.dll
+G:\MIMISHOP\MimiShop\MimiShop.Common\bin\Debug\MimiShop.Common.pdb
+G:\MIMISHOP\MimiShop\MimiShop.Common\obj\Debug\MimiShop.Common.csprojAssemblyReference.cache
+G:\MIMISHOP\MimiShop\MimiShop.Common\obj\Debug\MimiShop.Common.csproj.CoreCompileInputs.cache
+G:\MIMISHOP\MimiShop\MimiShop.Common\obj\Debug\MimiShop.Common.dll
+G:\MIMISHOP\MimiShop\MimiShop.Common\obj\Debug\MimiShop.Common.pdb
